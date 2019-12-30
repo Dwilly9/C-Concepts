@@ -11,3 +11,5 @@ Reading data from an input file
 Outputting data to an output file
 
 Practicing use of the Switch-case statement
+
+Use of loops in conjunction with each other
